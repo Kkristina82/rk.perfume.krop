@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://rk-perfume-krop-g4po.vercel.app/sitemap.xml
